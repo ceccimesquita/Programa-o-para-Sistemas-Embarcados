@@ -1,21 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  main.c
- *
- *    Description:  
- *
- *        Version:  1.0
- *        Created:  12/02/2017 20:05:55
- *       Revision:  none
- *       Compiler:  arm-none-eabi-gcc
- *
- *         Author:  Francisco Helder (FHC), helderhdw@gmail.com
- *   Organization:  UFC-Quixadá
- *
- * =====================================================================================
- */
-
 #include	"gpio.h"
 
 
